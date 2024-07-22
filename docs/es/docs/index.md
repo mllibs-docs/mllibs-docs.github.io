@@ -1,4 +1,6 @@
 ---
+title: Whoami
+description: ¡Hola! 👋 Mi nombre es Luis Correa, y soy Científico de la Computación y Desarrollador de Software. Bienvenido a mi blog donde comparto ideas sobre el fascinante mundo de la Ciencia de la Computación y la Ingeniería de Software.
 hide_comments: true
 hide:
   - navigation

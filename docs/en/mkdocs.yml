@@ -100,6 +100,6 @@ extra:
 
 nav:
   - "$> whoami":
-      - "index.md"
+      - index.md
   - Blog:
-      - "blog/index.md"
+      - blog/index.md

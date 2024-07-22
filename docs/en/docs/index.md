@@ -1,4 +1,6 @@
 ---
+title: Whoami
+description: Hi there 👋! My name is Luis Correa, and I'm a Computer Scientist & Software Developer. Welcome to my blog where I share insights into the fascinating world of Computer Science and Software Engineering.
 hide_comments: true
 hide:
   - navigation
