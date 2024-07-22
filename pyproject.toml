@@ -21,12 +21,12 @@ mkdocs-rss-plugin = "^1.15.0"
 mkdocs-git-committers-plugin-2 = "^2.3.0"
 markdown-include = "^0.8.1"
 markdown-callouts = "^0.4.0"
-mkdocs-material = {extras = ["imaging"], version = "^9.5.29"}
+mkdocs-material = { extras = ["imaging"], version = "^9.5.29" }
+typer = "^0.12.3"
 
 
 [tool.poetry.group.dev.dependencies]
 pillow = "^10.4.0"
-typer = "^0.12.3"
 
 
 [tool.poetry.group.jupyter.dependencies]
