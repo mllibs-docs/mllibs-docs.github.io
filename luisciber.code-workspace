@@ -4,6 +4,11 @@
       "path": "."
     },
     {
+      // [emoji] Notebooks
+      "name": "📓 Notebooks",
+      "path": "docs/en/docs/notebooks"
+    },
+    {
       "name": "🇬🇧 EN",
       "path": "docs/en"
     },

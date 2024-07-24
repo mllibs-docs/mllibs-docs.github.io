@@ -1,1 +1,7 @@
 INHERIT: ../en/mkdocs.yml
+
+nav:
+  - 👨🏻‍💻 whoami:
+      - index.md
+  - 📝 Blog:
+      - blog/index.md

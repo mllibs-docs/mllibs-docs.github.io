@@ -1,5 +1,5 @@
 ---
-title: Whoami
+title: 👨🏻‍💻 Whoami
 description: ¡Hola! 👋 Mi nombre es Luis Correa, y soy Científico de la Computación y Desarrollador de Software. Bienvenido a mi blog donde comparto ideas sobre el fascinante mundo de la Ciencia de la Computación y la Ingeniería de Software.
 hide_comments: true
 hide:
@@ -107,7 +107,7 @@ hide:
     </div>
   </div>
   <div class="content">
-    <h1>Whoami</h1>
+    <h1>👨🏻‍💻 Whoami</h1>
     <p>
       ¡Hola! 👋 Mi nombre es Luis Correa, y soy Científico de la Computación y Desarrollador de Software. Bienvenido a mi blog donde comparto ideas sobre el fascinante mundo de la Ciencia de la Computación y la Ingeniería de Software.
     </p>

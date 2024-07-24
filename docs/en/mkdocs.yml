@@ -4,8 +4,8 @@ site_url: https://luisciber.com/
 theme:
   name: material
   custom_dir: ../en/overrides
-  logo: /static/logo.png
-  favicon: /static/favicon.png
+  logo: static/logo.png
+  favicon: static/favicon.png
   icon:
     repo: fontawesome/brands/git-alt
   features:
@@ -16,16 +16,12 @@ theme:
     - content.tabs.link
     - content.tooltips
     - header.autohide
-    - navigation.expand
-    - navigation.footer
-    - navigation.indexes
+    - navigation.tabs
     - navigation.instant
-    - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.prune
-    - navigation.tabs
+    - navigation.indexes
     - navigation.top
-    - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
@@ -48,6 +44,7 @@ theme:
     code: "Roboto Mono"
 
 plugins:
+  - social
   - blog:
       blog_toc: true
   - search:
@@ -75,10 +72,10 @@ plugins:
             show_symbol_type_heading: true
             show_symbol_type_toc: true
   - mkdocs-jupyter:
-      ignore_h1_titles: true
       execute: false
       include_source: True
       include_requirejs: true
+      highlight_extra_classes: "highlight"
 
 extra:
   social:
@@ -92,14 +89,19 @@ extra:
       link: https://threads.net/@luiscib3r
   alternate:
     - link: /
-      name: English
+      name: 🇬🇧 English
       lang: en
     - link: /es/
-      name: Español
+      name: 🇪🇸 Español
       lang: es
 
 nav:
-  - "$> whoami":
+  - 👨🏻‍💻 whoami:
       - index.md
-  - Blog:
+  - 📝 Blog:
       - blog/index.md
+  - 📓 Notebooks:
+      - notebooks/index.md
+
+extra_css:
+  - static/custom.css
