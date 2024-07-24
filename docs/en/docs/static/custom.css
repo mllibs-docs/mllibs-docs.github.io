@@ -157,6 +157,12 @@ body {
   display: none !important;
 }
 
+@media screen and (max-width: 1219px) {
+  .md-sidebar--primary {
+    display: block !important;
+  }
+}
+
 .flex {
   display: flex;
 }
