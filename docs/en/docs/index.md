@@ -121,9 +121,6 @@ hide:
       <li>Case studies and project showcases</li>
     </ul>
     <p>
-      My goal is to provide insights that not only explain the 'how' but also delve into the 'why' behind technological innovations.
-    </p>
-    <p>
       Through this blog, I aim to contribute to the advancement of knowledge in AI, complex algorithms, and the future of software engineering. I invite you to explore these topics with me and engage in constructive discussions about computer science and technological development.
     </p>
   </div>

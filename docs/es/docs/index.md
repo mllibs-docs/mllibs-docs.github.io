@@ -121,9 +121,6 @@ hide:
       <li>Estudios de casos y presentaciones de proyectos</li>
     </ul>
     <p>
-      Mi objetivo es proporcionar perspectivas que no solo expliquen el 'cómo', sino que también profundicen en el 'por qué' detrás de las innovaciones tecnológicas.
-    </p>
-    <p>
       A través de este blog, aspiro a contribuir al avance del conocimiento en IA, algoritmos complejos y el futuro de la ingeniería de software. Te invito a explorar estos temas conmigo y a participar en discusiones constructivas sobre el desarrollo tecnológico.
     </p>
   </div>
