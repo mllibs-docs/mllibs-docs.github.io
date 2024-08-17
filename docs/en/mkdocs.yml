@@ -1,6 +1,6 @@
 site_name: Tests
 site_description: Luis Ciber's Workspace
-site_url: mllibs-docs.github.io/
+site_url: https://mllibs-docs.github.io/
 theme:
   name: material
   custom_dir: ../en/overrides
